@@ -1,0 +1,6 @@
+---
+layout: page
+title: "projects"
+permalink: /projects/
+---
+El proyecto va en base a todos los equipos de futbol de la liga profesional argentina.

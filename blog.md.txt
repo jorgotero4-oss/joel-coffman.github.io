@@ -1,0 +1,6 @@
+---
+layout: page
+title: "blog"
+permalink: /blog/
+--/
+Futbo y mas futbol y este blog va en base a eso
